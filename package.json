@@ -1,0 +1,23 @@
+{
+  "name": "server-untuk-socketio-rasa-react",
+  "version": "1.0.0",
+  "description": "server-side dari socketio pada companion robot for elderly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naufalHaidar12342/server-socketio-rasa-react.git"
+  },
+  "author": "naufalHaidar12342",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naufalHaidar12342/server-socketio-rasa-react/issues"
+  },
+  "homepage": "https://github.com/naufalHaidar12342/server-socketio-rasa-react#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.6.1"
+  }
+}
